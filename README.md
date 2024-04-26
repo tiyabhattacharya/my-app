@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
+
+This file contains scripts for basic react fundamentals learnt by myself kept for future reference. You also give it a look if you're a beginner.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
